@@ -19,7 +19,8 @@ Hello Group, We Are CRUSHING It!!!
 
 ## Person D:
 
-Person D should modify content here.
+Hello! My name is Lina and I am person D
+Check out the hello file!!!! :)
 
 ## Person E:
 
