@@ -4,7 +4,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ## Person A:
 
-Kareha is person A.
+Kareha Agesa is person A. Person A is Kareha Agesa.
 
 ## Person B:
 
