@@ -8,7 +8,8 @@ Person A should modify content here.
 
 ## Person B:
 
-Person B should modify content here.
+I am Sophie, otherwise known as Person B. This is my code.
+:)
 
 ## Person C:
 
