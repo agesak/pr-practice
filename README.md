@@ -13,6 +13,8 @@ Person B should modify content here.
 ## Person C:
 
 Person C should modify content here.
+Hello group, we are CRUSHING it!!! 
+~Richelle
 
 ## Person D:
 
